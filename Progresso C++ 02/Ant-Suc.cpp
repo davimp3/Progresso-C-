@@ -6,9 +6,9 @@ using namespace std;
 	int main(){
 		
 		string  menu [4]= {
-				"Digite um número inteiro:",
-				"O seu antecesor é:",
-				", e seu sucessor é:"
+				"Digite um nÃºmero inteiro:",
+				"O seu antecesor Ã©:",
+				", e seu sucessor Ã©:"
 		};
 		int ant, suc, num;
 		
